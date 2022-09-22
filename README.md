@@ -1,5 +1,7 @@
 # PetFriendsTesting
 
+Tasks 19.7.2
+
 Репозиторий содержащий тесты приложения https://petfriends.skillfactory.ru/
 
 Файл api.py содержит интерфейс взаимодействия с приложением, 
